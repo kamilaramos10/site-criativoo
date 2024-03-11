@@ -1,8 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
 .cabecalho {
 background-color: rgb(145, 12, 12);
 color: rgb(255, 255, 255);
 display: flex;
 justify-content: space-around;
+align-items: center;
 padding: 24px 0;
 }
 
+.cabecalho-imagem{
+    width: 8%;
+    border-radius: 22px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.cabecalho-lista-item a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+a:hover {
+    color: darkred;
+}
+
+a:active{
+    color: #ffffff;
+}
