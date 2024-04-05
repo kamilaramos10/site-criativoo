@@ -37,3 +37,35 @@ a:hover {
 a:active{
     color: #c95b5b;
 }
+
+.escola-imagem{
+    width: 25%; 
+    height: 300px;
+    border-radius: 82px;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61 #16cffb)
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+
+}
+
+.escola-div-conteudo{
+    width: 45%;
+
+}
+
+.escola-titulo{
+    padding: 24px 0;
+
+}
+
+p{
+    padding: 0 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+    ;
+}
