@@ -31,11 +31,11 @@ padding: 24px 0;
 }
 
 a:hover {
-    color: darkred;
+    color: #424E61;
 }
 
 a:active{
-    color: #c95b5b;
+    color: #16cffb;
 }
 
 .escola-imagem{
@@ -69,3 +69,5 @@ p{
     font-family: Arial, Helvetica, sans-serif
     ;
 }
+
+<section class= 
