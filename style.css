@@ -8,13 +8,14 @@ body {
 }
 
 .cabecalho {
-     background-color: rgb(66, 78, 97);
-     color: rgb(255, 255, 255);
-     display: flex;
-     justify-content: space-around;
-     align-items: center;
-     padding: 24px 0;
+    background-color: #424E61;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
+
 
 .cabecalho-imagem{
     width: 8%;
