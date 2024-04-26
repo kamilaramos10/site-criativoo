@@ -41,15 +41,9 @@ a:active{
     color: rgb(199, 215, 246);
 }
 
-.escola-imagem{
-    width: 25%; 
-    height: 300px;
-    border-radius: 82px;
-}
-
 .escola{
     background-image: linear-gradient(#424E61 #16cffb)
-    color: white;
+    color: #000000;
     display: flex;
     justify-content: center;
     padding: 24px;
@@ -57,19 +51,21 @@ a:active{
 
 .escola-div-conteudo{
     width: 45%;
+    color: #000000;
 }
 
 .escola-titulo{
     padding: 24px 0;
+    font-size: 25px;
 }
 
-p{
-    padding: 0 40px;
+.escola-texto{
     font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif
+
 }
 
-body{
-    font-family: poppins, sans-serif;
+.escola-imagem{
+    width: 25%; 
+    height: 300px;
+    border-radius: 82px;
 }
-
