@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho {
-    background-color: #2e00fa;
+    background-color: #5d38ff;
     color: #ffffff;
     display: flex;
     justify-content: space-around;
@@ -42,7 +42,7 @@ a:active{
 }
 
 .escola{
-    background-image: linear-gradient(#2e00fa #ccc2fc)
+    background-image: linear-gradient(#5d38ff #ccc2fc)
     color: #000000;
     display: flex;
     justify-content: center;
@@ -71,7 +71,7 @@ a:active{
 }
 
 .estudante{
-    background-color:#ccc2fc;
+    background-color:#5d38ff;
       color: #000000;
   }
   .estudante-titulo{
@@ -110,7 +110,7 @@ a:active{
 }
 
 .rodape{
-    background-image: linear-gradient(#ccc2fc, #2e00fa);
+    background-image: linear-gradient(#ccc2fc, #5d38ff);
 }
 
 .copyright{
