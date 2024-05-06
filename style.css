@@ -108,24 +108,6 @@ a:active{
     padding: 4px 8px;
 }
 
-.estudante-div{
-    text-align: center;
-    padding: 12px 0;
-}
-
-.estudante-imagem{
-    width: 120px;
-}
-
-.estudante-nome{
-    font-size: 14px;
-}
-
-.estudante-icone{
-    width: 24px;
-    padding: 4px 8px;
-}
-
 .rodape{
     background-image: linear-gradient(#ffffff, #ccc2fc);
 }
