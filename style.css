@@ -42,7 +42,7 @@ a:active{
 }
 
 .escola{
-    background-image: linear-gradient(#ccc2fc #ffffff);
+    background-image: linear-gradient(#ccc2fc, #9883ff);
     color: #ffffff;
     display: flex;
     justify-content: center;
